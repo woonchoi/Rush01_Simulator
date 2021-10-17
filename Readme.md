@@ -8,7 +8,7 @@ It is a simulator that can be useful for Rush01 evaluation.
 *Damien Dam* : [*dqtvictory42-C-Piscine-Mar2021*](https://github.com/dqtvictory/42-C-Piscine-Mar2021)
 
 # Usage
-The simulator and executable **should be placed in the same folder**.
+The simulator and executable file **should be placed in the same folder**.
 
     git clone https://github.com/woonchoi/Rush01_Simulator.git .
     python3 Rush01Simulator.py
