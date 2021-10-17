@@ -1,7 +1,3 @@
-"""
-PROGRAM TO GENERATE A RANDOM MAP OF A CHOSEN SIZE FOR THE RUSH01 PROJECT AT SCHOOL 42
-"""
-
 from os import popen
 from time import time
 from random import shuffle
