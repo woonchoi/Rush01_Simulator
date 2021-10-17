@@ -1,10 +1,10 @@
 ﻿# Rush01 Simulator
 > ***It's just a program designed to enjoy peer evaluation.***
 
-It is a simulator that can be useful for Rush01 evaluation.
+It is a simulator that can be useful for Rush01 evaluation.  
 **Python3** is required to use it.
 
-**Original Source**
+**Original Source**  
 *Damien Dam* : [*dqtvictory42-C-Piscine-Mar2021*](https://github.com/dqtvictory/42-C-Piscine-Mar2021)
 
 # Usage
