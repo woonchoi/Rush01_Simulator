@@ -1,4 +1,5 @@
 from os import popen
+from os import system
 from time import time
 from random import shuffle
 
@@ -145,6 +146,7 @@ if (__name__ == '__main__'):
             TAB = [0 for _ in range(SIZE ** 2)]
             if solve(0):
                 break
+        system('clear')
         print(green(f"==================== EXAMPLE {i + 1} ====================\n"))
         gen_cond()
         print_puzzle()
